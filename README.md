@@ -109,6 +109,8 @@ A sophisticated AI-powered fitness advisor that leverages Apple Health data to p
 - Implement user authentication
 - Add workout tracking and progress monitoring
 
-## License
+
+![image](https://github.com/user-attachments/assets/13dcace4-8910-4397-b312-4feff0df8b6a)
+
 
 MIT License 
